@@ -14,7 +14,7 @@ vim.o.termguicolors = true -- true color support
 -- Tabs + Indentations
 vim.o.expandtab = true -- number of spaces a tab counts for (insert mode)
 vim.o.shiftwidth = 2 -- number of spaes to use for each auto indent
-vim.o.smartindent = true -- smart auto indenting 
+vim.o.smartindent = true -- smart auto indenting
 vim.o.softtabstop = 2 -- number of spaces a tab counts for
 vim.o.tabstop = 2 -- number of spaces a tab counts for
 vim.o.wrap = false -- wrap line or not if appears of screen
@@ -24,4 +24,4 @@ vim.o.ignorecase = true -- ignore case in search patterns
 vim.o.smartcase = true -- override ignorecase
 
 vim.g.markdown_recommended_style = 0
-
+vim.g.python3_host_prog = "$/home/pumetu/miniconda3/bin/python3"
