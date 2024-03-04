@@ -16,7 +16,7 @@ exec --no-startup-id xset s noblank
 # Polybar
 exec_always --no-startup-id $HOME/.config/polybar/launch.sh
 # Picom
-exec_always --no-startup-id picom --config $HOME/.config/picom/picom.conf
+# exec_always --no-startup-id picom --backend glx --config $HOME/.config/picom/picom.conf
 
 # The combination of xss-lock, nm-applet and pactl is a popular choice, so
 # they are included here as an example. Modify as you see fit.
