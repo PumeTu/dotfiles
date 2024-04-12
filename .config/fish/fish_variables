@@ -1,5 +1,7 @@
 # This file contains fish universal variable definitions.
 # VERSION: 3.0
+SETUVAR --export MODULAR_HOME:/home/pumetu/\x2emodular
+SETUVAR --export --path PATH:/home/pumetu/\x2emodular/pkg/packages\x2emodular\x2ecom_mojo/bin\x1e/home/pumetu/\x2ecargo/bin\x1e/home/pumetu/miniconda3/bin\x1e/home/pumetu/miniconda3/condabin\x1e/home/pumetu/\x2elocal/bin\x1e/usr/local/sbin\x1e/usr/local/bin\x1e/usr/sbin\x1e/usr/bin\x1e/sbin\x1e/bin\x1e/usr/games\x1e/usr/local/games\x1e/snap/bin\x1e/snap/bin
 SETUVAR __fish_initialized:3100
 SETUVAR fish_color_autosuggestion:555\x1ebrblack
 SETUVAR fish_color_cancel:\x2dr
@@ -30,4 +32,4 @@ SETUVAR fish_pager_color_completion:\x1d
 SETUVAR fish_pager_color_description:B3A06D\x1eyellow
 SETUVAR fish_pager_color_prefix:normal\x1e\x2d\x2dbold\x1e\x2d\x2dunderline
 SETUVAR fish_pager_color_progress:brwhite\x1e\x2d\x2dbackground\x3dcyan
-SETUVAR fish_user_paths:/home/pumetu/\x2ecargo/bin
+SETUVAR fish_user_paths:/home/pumetu/\x2emodular/pkg/packages\x2emodular\x2ecom_mojo/bin\x1e/home/pumetu/\x2ecargo/bin
